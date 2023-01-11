@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "Pikachu",
+            "type": "Electric"
+        },
+        {
+            "name": "Squirtle",
+            "type": "Water"
+        },
+        {
+            "name": "Charmander",
+            "type": "Fire"
+        },
+        {
+            "name": "Bulbasaur",
+            "type": "Nature"
+        },
+        {
+            "name": "Ekans",
+            "type": "Poison"
+        },
+        {
+            "name": "Vulpix",
+            "type": "Fire"
+        }
+    ]
+}
